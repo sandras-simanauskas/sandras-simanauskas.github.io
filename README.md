@@ -1,2 +1,2 @@
-# sandras-simanauskas.github.io
+# http://sandras.systems
 My personal site.
