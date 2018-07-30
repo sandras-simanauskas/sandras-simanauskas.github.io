@@ -1,2 +1,2 @@
-# http://sandras.systems
+# https://sandras.systems
 My personal site.
